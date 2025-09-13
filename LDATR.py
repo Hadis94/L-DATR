@@ -1,4 +1,4 @@
-# This code was written by Mohammad Jalali in February 2024. It implements a distributed
+# This code was written by authors of L-DATR paper in February 2024. It implements a distributed
 # optimization algorithm using the Trust Region method, which offers better convergence
 # properties compared to the Line Search approach. The architecture utilizes a Master-Worker
 # model, where the Master coordinates the optimization process and the Workers work on 
