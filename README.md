@@ -5,4 +5,4 @@ This is the implementation of the paper L-DATR: A Limited-Memory Distributed Asy
 
 To run the implementation, you can use the following command:
 
-mpirun -n 4 python LDATR.py
+- mpirun -n 4 python LDATR.py
